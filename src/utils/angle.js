@@ -1,0 +1,1 @@
+export const angleToRadiance = (angleInDeg) => (Math.PI / 180) * angleInDeg

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Gagarin Station
+* source:	https://sketchfab.com/3d-models/gagarin-station-eaa03b5cfcdd400eb01d7e75e3f83261
+* author:	briligg (https://sketchfab.com/briligg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Gagarin Station" (https://sketchfab.com/3d-models/gagarin-station-eaa03b5cfcdd400eb01d7e75e3f83261) by briligg (https://sketchfab.com/briligg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
